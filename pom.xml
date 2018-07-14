@@ -32,9 +32,9 @@
             <url>http://localhost:8081/nexus/content/repositories/MavenId/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>mavensnopId</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/nexus/content/repositories/MavenId/</url>
+            <url>http://localhost:8081/nexus/content/repositories/mavensnopId/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
